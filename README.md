@@ -90,6 +90,6 @@ model provides deeper mechanistic insight at the cost of increased complexity.
 
 * Finke, R. G., & Watzky, M. A. (2007)
 * Morris et al., Biochemistry (2008)
-* Prof. Ala Trusina, MSc Course: Biophysics of Molecular Disease, University of Copenhagen, Niels Bohr Institute
+* Prof. Ala Trusina, MSc Course: Biophysics of Molecular Diseases, University of Copenhagen, Niels Bohr Institute
 
 ---
