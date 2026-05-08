@@ -2,6 +2,12 @@
 
 This repository implements and analyzes the deterministic Finke–Watzky two-step model for protein aggregation kinetics.
 
+Developed as part of the MSc course:
+
+**Physics of Molecular Diseases**  
+Niels Bohr Institute — University of Copenhagen (Prof. Ala Trusina)
+
+
 # Overview
 The Finke–Watzky model describes aggregation as a two-step process:
 
