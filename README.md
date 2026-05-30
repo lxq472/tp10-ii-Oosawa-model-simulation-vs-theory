@@ -74,7 +74,7 @@ With Nucleation + Association only (no fragmentation), $f(j, t)$ is always monot
 Protein misfolding diseases (PMDs) involve proteins that misfold, aggregate, and accumulate in tissues. Around 30 different PMDs are known, including Alzheimer's (Aβ, tau), Parkinson's (α-synuclein), Huntington's, and Type 2 Diabetes (IAPP). Despite different proteins and tissues, they share a universal two-step aggregation kinetics: slow nucleation followed by fast growth — captured naturally by the Oosawa model.
  
 **Key references:**  
-- Prof. Ala Trusina, Lecture notes of the course "Physics of Molecular Diseases", Niels Bohr Institute, 2020
+- Prof. Ala Trusina, Lecture notes from the course "Physics of Molecular Diseases", Niels Bohr Institute, 2020
 - Oosawa & Asakura (1975) — original polymer model  
 - Knowles et al., *Science* (2009) — nucleated polymerisation framework  
 - Buell et al., *Essays in Biochemistry* (2014) — experimental techniques  
